@@ -1,0 +1,3 @@
+The position of each point reflects both the genome composition (C+G%) and the assembly time.
+Viruses with higher GC content do not necessarily require more time, but their sequences tend to be more stable and complex.
+The differences in assembly time mainly depend on genome size, sequence complexity, and the presence of repetitive regions.
