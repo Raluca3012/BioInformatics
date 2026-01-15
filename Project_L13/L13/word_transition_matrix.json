@@ -1,0 +1,99 @@
+{
+    "the": {
+        "quick": 0.3333333333333333,
+        "lazy": 0.3333333333333333,
+        "wind": 0.3333333333333333
+    },
+    "quick": {
+        "brown": 1.0
+    },
+    "brown": {
+        "fox": 1.0
+    },
+    "fox": {
+        "jumps": 1.0
+    },
+    "jumps": {
+        "over": 1.0
+    },
+    "over": {
+        "the": 1.0
+    },
+    "lazy": {
+        "dog.": 1.0
+    },
+    "dog.": {
+        "a": 1.0
+    },
+    "a": {
+        "small": 1.0
+    },
+    "small": {
+        "cat": 1.0
+    },
+    "cat": {
+        "watches": 1.0
+    },
+    "watches": {
+        "silently.": 1.0
+    },
+    "silently.": {
+        "then": 1.0
+    },
+    "then": {
+        "suddenly": 1.0
+    },
+    "suddenly": {
+        "the": 1.0
+    },
+    "wind": {
+        "blows": 1.0
+    },
+    "blows": {
+        "and": 1.0
+    },
+    "and": {
+        "everything": 0.5,
+        "discovery": 0.5
+    },
+    "everything": {
+        "changes.": 1.0
+    },
+    "changes.": {
+        "nature": 1.0
+    },
+    "nature": {
+        "whispers": 1.0
+    },
+    "whispers": {
+        "but": 1.0
+    },
+    "but": {
+        "we": 1.0
+    },
+    "we": {
+        "rarely": 1.0
+    },
+    "rarely": {
+        "listen.": 1.0
+    },
+    "listen.": {
+        "curiosity": 1.0
+    },
+    "curiosity": {
+        "sparks": 1.0
+    },
+    "sparks": {
+        "discovery": 1.0
+    },
+    "discovery": {
+        "and": 0.5,
+        "leads": 0.5
+    },
+    "leads": {
+        "to": 1.0
+    },
+    "to": {
+        "progress.": 1.0
+    }
+}
